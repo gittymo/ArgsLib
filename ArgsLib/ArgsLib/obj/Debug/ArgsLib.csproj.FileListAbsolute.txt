@@ -1,0 +1,4 @@
+F:\ArgsLib\ArgsLib\bin\Debug\ArgsLib.dll
+F:\ArgsLib\ArgsLib\bin\Debug\ArgsLib.pdb
+F:\ArgsLib\ArgsLib\obj\Debug\ArgsLib.dll
+F:\ArgsLib\ArgsLib\obj\Debug\ArgsLib.pdb
